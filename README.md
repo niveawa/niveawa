@@ -22,6 +22,6 @@ Eu tenho 21 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
  ![JAVA}(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-
+ 
 
 - Obrigado por me visitar! 

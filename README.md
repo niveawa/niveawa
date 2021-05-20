@@ -17,11 +17,12 @@ Eu tenho 21 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia 
 
 ## Minhas Habilidades  
 
-![SPRINGBOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
- ![JAVA}(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
+  [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
+  [![Linkedin Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=Css3&logoColor=white&link=#)](#)
+  [![Linkedin Badge](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=AngularJs&logoColor=white&link=#)](#)
+  [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#) 
  
 
 - Obrigado por me visitar! 

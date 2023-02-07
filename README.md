@@ -17,13 +17,14 @@ Eu tenho 22 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia 
 
 ## Minhas Habilidades  
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=Css3&logoColor=white&link=#)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=AngularJs&logoColor=white&link=#)](#)
   [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#) 
   [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+  [![Vue.js](http://[img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D))](#)
  
 
 - Obrigado por me visitar! 

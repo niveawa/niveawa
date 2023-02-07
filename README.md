@@ -24,7 +24,7 @@ Eu tenho 22 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia 
   [![Linkedin Badge](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=AngularJs&logoColor=white&link=#)](#)
   [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#) 
   [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-  [![Vue.js](http://[img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D))](#)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D))](#)
  
 
 - Obrigado por me visitar! 

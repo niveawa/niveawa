@@ -1,10 +1,10 @@
-# Seja bem vinde! 
+# Seja bem vindo(a)! 
 
   
 
 ## Eu sou Nivea Martins! 
 
-Eu tenho 22 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia e estou em busca de uma oportunidade na área de Desenvolvimento. Almejo crescer na área de tecnologia e sempre correr atrás de novos aprendizados e desafios. 
+Eu tenho 22 anos, moro em São Bernardo do Campo. Sou apaixonada por tecnologia e estou em busca de uma oportunidade na área de Desenvolvimento. Hoje curso análise e desenvolvimento de sistemas, tenho como objetivo profissional me tornar uma referência no mercado de tecnologia, e conseguir impactar positivamente a vida das pessoas.
 
  
 
